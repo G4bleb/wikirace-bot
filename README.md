@@ -10,6 +10,6 @@ Discord bot to play the wikirace game
  5. Run the bot : `node bot.json`
  6. Use the bot !
 
-Default prefix : `!`
+Default prefix : `!`  
 Commands :
- - `wikirace` Gets two random pages from the Wikipedia API
+ - `wikirace` Gets two random pages from the (french) Wikipedia API
